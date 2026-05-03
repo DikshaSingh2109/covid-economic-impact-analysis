@@ -1,0 +1,121 @@
+Country,Region,Recovery_Speed,Year,GDP_Billion_USD,GDP_Growth_Rate,Unemployment_Rate,Inflation_Rate
+USA,North America,fast,2018,21561.7,2.67,4.62,2.8
+USA,North America,fast,2019,22030.5,2.17,4.32,3.0
+USA,North America,fast,2020,21458.0,-2.6,7.54,2.3
+USA,North America,fast,2021,22688.0,5.73,6.02,4.3
+USA,North America,fast,2022,23427.5,3.26,5.12,10.1
+USA,North America,fast,2023,24074.6,2.76,4.82,6.42
+China,Asia,fast,2018,14324.9,2.32,4.73,2.29
+China,Asia,fast,2019,14585.7,1.82,4.43,2.49
+China,Asia,fast,2020,14212.3,-2.56,8.14,1.79
+China,Asia,fast,2021,15041.2,5.83,6.13,3.79
+China,Asia,fast,2022,15496.5,3.03,5.23,9.08
+China,Asia,fast,2023,15926.2,2.77,4.93,5.07
+Germany,Europe,medium,2018,3910.7,2.91,7.14,2.27
+Germany,Europe,medium,2019,4005.0,2.41,6.84,2.47
+Germany,Europe,medium,2020,3755.8,-6.22,11.94,1.77
+Germany,Europe,medium,2021,3905.8,3.99,9.34,3.77
+Germany,Europe,medium,2022,4012.0,2.72,7.64,9.55
+Germany,Europe,medium,2023,4111.6,2.48,7.34,4.56
+UK,Europe,medium,2018,2778.5,2.91,7.23,1.65
+UK,Europe,medium,2019,2845.4,2.41,6.93,1.85
+UK,Europe,medium,2020,2670.2,-6.16,12.24,1.15
+UK,Europe,medium,2021,2770.7,3.77,9.43,3.15
+UK,Europe,medium,2022,2855.7,3.07,7.73,9.2
+UK,Europe,medium,2023,2932.4,2.69,7.43,4.73
+France,Europe,medium,2018,2765.4,2.42,6.65,2.28
+France,Europe,medium,2019,2818.5,1.92,6.35,2.48
+France,Europe,medium,2020,2663.3,-5.51,11.67,1.78
+France,Europe,medium,2021,2762.7,3.73,8.85,3.78
+France,Europe,medium,2022,2846.9,3.05,7.15,9.42
+France,Europe,medium,2023,2915.3,2.4,6.85,4.85
+India,Asia,fast,2018,2994.8,3.27,7.69,1.79
+India,Asia,fast,2019,3077.8,2.77,7.39,1.99
+India,Asia,fast,2020,2987.0,-2.95,10.66,1.29
+India,Asia,fast,2021,3164.4,5.94,9.09,3.29
+India,Asia,fast,2022,3273.1,3.44,8.19,7.43
+India,Asia,fast,2023,3369.3,2.94,7.89,4.64
+Brazil,South America,slow,2018,1848.4,2.69,6.17,2.7
+Brazil,South America,slow,2019,1888.9,2.19,5.87,2.9
+Brazil,South America,slow,2020,1719.7,-8.96,13.25,2.2
+Brazil,South America,slow,2021,1776.9,3.33,9.57,4.2
+Brazil,South America,slow,2022,1812.7,2.01,6.67,8.43
+Brazil,South America,slow,2023,1843.7,1.71,6.37,6.88
+Italy,Europe,slow,2018,1958.4,3.07,6.92,1.61
+Italy,Europe,slow,2019,2008.7,2.57,6.62,1.81
+Italy,Europe,slow,2020,1825.9,-9.1,15.26,1.11
+Italy,Europe,slow,2021,1871.6,2.51,10.32,3.11
+Italy,Europe,slow,2022,1914.5,2.29,7.42,8.19
+Italy,Europe,slow,2023,1950.5,1.88,7.12,4.04
+Canada,North America,medium,2018,1753.8,3.16,5.3,2.46
+Canada,North America,medium,2019,1800.5,2.66,5.0,2.66
+Canada,North America,medium,2020,1705.9,-5.25,11.16,1.96
+Canada,North America,medium,2021,1774.7,4.03,7.5,3.96
+Canada,North America,medium,2022,1819.7,2.54,5.8,10.62
+Canada,North America,medium,2023,1863.8,2.42,5.5,5.6
+South Korea,Asia,fast,2018,1638.7,2.42,5.98,2.14
+South Korea,Asia,fast,2019,1670.2,1.92,5.68,2.34
+South Korea,Asia,fast,2020,1618.8,-3.07,9.82,1.64
+South Korea,Asia,fast,2021,1712.1,5.76,7.38,3.64
+South Korea,Asia,fast,2022,1767.5,3.24,6.48,7.72
+South Korea,Asia,fast,2023,1820.7,3.01,6.18,4.56
+Russia,Europe,slow,2018,1739.6,2.33,5.0,2.63
+Russia,Europe,slow,2019,1771.5,1.83,4.7,2.83
+Russia,Europe,slow,2020,1625.8,-8.23,12.62,2.13
+Russia,Europe,slow,2021,1671.5,2.81,8.4,4.13
+Russia,Europe,slow,2022,1706.7,2.11,5.5,8.82
+Russia,Europe,slow,2023,1740.2,1.96,5.2,4.99
+Australia,Oceania,fast,2018,1436.3,2.59,7.49,1.78
+Australia,Oceania,fast,2019,1466.3,2.09,7.19,1.98
+Australia,Oceania,fast,2020,1405.0,-4.18,11.89,1.28
+Australia,Oceania,fast,2021,1488.3,5.93,8.89,3.28
+Australia,Oceania,fast,2022,1538.7,3.38,7.99,9.96
+Australia,Oceania,fast,2023,1584.2,2.95,7.69,5.06
+Spain,Europe,slow,2018,1340.4,3.11,5.71,2.79
+Spain,Europe,slow,2019,1375.3,2.61,5.41,2.99
+Spain,Europe,slow,2020,1269.3,-7.71,14.14,2.29
+Spain,Europe,slow,2021,1305.1,2.82,9.11,4.29
+Spain,Europe,slow,2022,1329.5,1.87,6.21,8.31
+Spain,Europe,slow,2023,1351.9,1.69,5.91,6.01
+Mexico,North America,slow,2018,1129.9,2.72,5.29,2.55
+Mexico,North America,slow,2019,1154.9,2.22,4.99,2.75
+Mexico,North America,slow,2020,1050.4,-9.06,13.13,2.05
+Mexico,North America,slow,2021,1077.9,2.62,8.69,4.05
+Mexico,North America,slow,2022,1099.5,2.0,5.79,9.15
+Mexico,North America,slow,2023,1121.2,1.98,5.49,6.7
+Indonesia,Asia,medium,2018,1135.9,3.26,4.15,2.25
+Indonesia,Asia,medium,2019,1167.3,2.76,3.85,2.45
+Indonesia,Asia,medium,2020,1097.3,-6.0,9.77,1.75
+Indonesia,Asia,medium,2021,1143.3,4.2,6.35,3.75
+Indonesia,Asia,medium,2022,1174.0,2.68,4.65,7.91
+Indonesia,Asia,medium,2023,1202.3,2.41,4.35,5.01
+Netherlands,Europe,fast,2018,928.9,3.21,4.97,2.64
+Netherlands,Europe,fast,2019,954.0,2.71,4.67,2.84
+Netherlands,Europe,fast,2020,915.7,-4.02,9.11,2.14
+Netherlands,Europe,fast,2021,962.8,5.14,6.37,4.14
+Netherlands,Europe,fast,2022,993.5,3.19,5.47,8.86
+Netherlands,Europe,fast,2023,1024.3,3.09,5.17,6.3
+Saudi Arabia,Middle East,medium,2018,821.3,2.67,7.34,1.78
+Saudi Arabia,Middle East,medium,2019,839.1,2.17,7.04,1.98
+Saudi Arabia,Middle East,medium,2020,795.2,-5.24,12.38,1.28
+Saudi Arabia,Middle East,medium,2021,829.7,4.33,9.54,3.28
+Saudi Arabia,Middle East,medium,2022,853.1,2.82,7.84,7.4
+Saudi Arabia,Middle East,medium,2023,873.0,2.34,7.54,5.16
+Turkey,Middle East,slow,2018,772.3,2.98,4.7,2.08
+Turkey,Middle East,slow,2019,791.5,2.48,4.4,2.28
+Turkey,Middle East,slow,2020,716.5,-9.47,12.88,1.58
+Turkey,Middle East,slow,2021,738.1,3.01,8.1,3.58
+Turkey,Middle East,slow,2022,752.4,1.94,5.2,10.39
+Turkey,Middle East,slow,2023,766.4,1.86,4.9,4.56
+Switzerland,Europe,fast,2018,718.5,2.64,6.64,2.33
+Switzerland,Europe,fast,2019,733.9,2.14,6.34,2.53
+Switzerland,Europe,fast,2020,702.5,-4.27,11.07,1.83
+Switzerland,Europe,fast,2021,744.1,5.92,8.04,3.83
+Switzerland,Europe,fast,2022,769.6,3.43,7.14,9.42
+Switzerland,Europe,fast,2023,791.2,2.8,6.84,5.02
+Argentina,South America,slow,2018,460.8,2.39,5.4,2.85
+Argentina,South America,slow,2019,469.5,1.89,5.1,3.05
+Argentina,South America,slow,2020,433.3,-7.71,13.65,2.35
+Argentina,South America,slow,2021,448.0,3.4,8.8,4.35
+Argentina,South America,slow,2022,457.8,2.18,5.9,11.01
+Argentina,South America,slow,2023,465.8,1.74,5.6,6.61
