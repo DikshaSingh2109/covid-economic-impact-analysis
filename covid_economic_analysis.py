@@ -99,7 +99,7 @@ for country, info in countries.items():
         })
 
 df = pd.DataFrame(records)
-df.to_csv('/home/claude/projects/covid_economy/covid_economic_data.csv', index=False)
+df.to_csv('covid_economic_data.csv', index=False)
 print(f"Dataset created: {df.shape[0]} rows × {df.shape[1]} columns")
 print(df.head(10).to_string())
 
@@ -186,7 +186,7 @@ ax4.set_xlabel('Region'); ax4.set_ylabel('Avg Inflation Rate (%)')
 ax4.tick_params(axis='x', rotation=30)
 ax4.legend(title='Year', fontsize=9)
 
-plt.savefig('/home/claude/projects/covid_economy/figure1_main_dashboard.png',
+plt.savefig('figure1_main_dashboard.png',
             dpi=150, bbox_inches='tight')
 plt.close()
 print("\nFigure 1 saved.")
@@ -246,7 +246,7 @@ legend_handles = [plt.Line2D([0], [0], marker='o', color='w',
 ax2b.legend(handles=legend_handles, fontsize=8, loc='upper right')
 
 plt.tight_layout()
-plt.savefig('/home/claude/projects/covid_economy/figure2_country_deep_dive.png',
+plt.savefig('figure2_country_deep_dive.png',
             dpi=150, bbox_inches='tight')
 plt.close()
 print("Figure 2 saved.")
@@ -285,7 +285,7 @@ axes3[2].set_xlabel('GDP Growth Rate (%)'); axes3[2].set_ylabel('Unemployment Ra
 axes3[2].legend(fontsize=8, title='Year')
 
 plt.tight_layout()
-plt.savefig('/home/claude/projects/covid_economy/figure3_eda_correlation.png',
+plt.savefig('figure3_eda_correlation.png',
             dpi=150, bbox_inches='tight')
 plt.close()
 print("Figure 3 saved.")
@@ -314,7 +314,7 @@ corr_val = df[['GDP_Growth_Rate', 'Unemployment_Rate']].corr().iloc[0, 1]
 print(f"\n5. Strong negative correlation ({corr_val:.2f}) between GDP growth")
 print(f"   and unemployment — confirming Okun's Law pattern in the data.")
 
-print("\n✅ All outputs saved to: /home/claude/projects/covid_economy/")
+print("\n✅ All outputs saved to: ")
 print("   • covid_economic_data.csv")
 print("   • figure1_main_dashboard.png")
 print("   • figure2_country_deep_dive.png")
